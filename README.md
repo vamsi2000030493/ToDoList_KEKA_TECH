@@ -25,8 +25,9 @@ Allows users to edit task details.
 
 ##### Before running the application, ensure that you have the following installed:
 
-    Android Studio - The official IDE for Android development.
-    Java Development Kit (JDK) - Make sure you have a compatible JDK installed.
+Android Studio - The official IDE for Android development.
+Java Development Kit (JDK) - Make sure you have a compatible JDK installed.
+    https://download.oracle.com/java/21/archive/jdk-21.0.1_windows-x64_bin.exe
 
 ##### Steps to Set Up and Run the Application
 
