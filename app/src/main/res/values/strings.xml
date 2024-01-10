@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="to_do_tasks">To Do Tasks</string>
+    <string name="by_kona_vamsi_krishna">By Kona Vamsi Krishna</string>
+    <string name="to_do_app">To Do App</string>
+    <string name="keep_raising_yourself">keep raising yourself</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_description">enter the Description</string>
+    <string name="enter_new_task">Enter New Task</string>
+    <string name="save">Save</string>
+</resources>
